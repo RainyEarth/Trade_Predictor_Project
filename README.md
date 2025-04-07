@@ -12,24 +12,24 @@ Built with a powerful **FastAPI backend** and a modern **Vite + React + Tailwind
 
 ## 🔍 Core Features
 
-🔗 **FastAPI Backend**: Lightweight and high-performance API for fast data processing and model predictions.
-⚛️ **React + Vite Frontend**: Ultra-fast UI built with Vite, React, TailwindCSS, and ShadCN.
-📈 **ML Algorithms**: Random Forest, ARIMA, and Markov Switching models for robust predictions.
-🔧 **Fourier Transform Analysis**: Extracts frequency-domain features to capture cyclic trends in data.
-🌊 **Wavelet Transform**: Multi-resolution analysis to uncover short-term vs long-term volatility patterns.
-📡 **Kalman Filter**: Smooths noisy market signals and estimates hidden state trends.
-📐 **Topological Data Analysis (TDA)**: Captures shape and structure of time-series data using persistence diagrams.
-🧮 **Technical Indicators**: Includes RSI, MACD, EMA, Bollinger Bands, and more.
-🎯 **Dimensionality Reduction**: Uses PCA and t-SNE for compressing and visualizing high-dimensional features.
-🖼️ **Live Graphs**: UI displays prediction results and historical performance in interactive charts.
-🧾 **CSV Upload & Visualization**: Upload any stock OHLCV CSV and view results instantly.
+- 🔗 **FastAPI Backend**: Lightweight and high-performance API for fast data processing and model predictions.
+- ⚛️ **React + Vite Frontend**: Ultra-fast UI built with Vite, React, TailwindCSS, and ShadCN.
+- 📈 **ML Algorithms**: Random Forest, ARIMA, and Markov Switching models for robust predictions.
+- 🔧 **Fourier Transform Analysis**: Extracts frequency-domain features to capture cyclic trends in data.
+- 🌊 **Wavelet Transform**: Multi-resolution analysis to uncover short-term vs long-term volatility patterns.
+- 📡 **Kalman Filter**: Smooths noisy market signals and estimates hidden state trends.
+- 📐 **Topological Data Analysis (TDA)**: Captures shape and structure of time-series data using persistence diagrams.
+- 🧮 **Technical Indicators**: Includes RSI, MACD, EMA, Bollinger Bands, and more.
+- 🎯 **Dimensionality Reduction**: Uses PCA and t-SNE for compressing and visualizing high-dimensional features.
+- 🖼️ **Live Graphs**: UI displays prediction results and historical performance in interactive charts.
+- 🧾 **CSV Upload & Visualization**: Upload any stock OHLCV CSV and view results instantly.
 
 ## ⚡ Use Cases
 
-Short-term & long-term stock trend forecasting
-Backtesting and model evaluation
-Educational tool for data science and trading students
-Research into hybrid models and multi-signal strategies
+- Short-term & long-term stock trend forecasting
+- Backtesting and model evaluation
+- Educational tool for data science and trading students
+- Research into hybrid models and multi-signal strategies
 ---
 
 ## 📸 Frontend Screenshot
